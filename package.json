@@ -14,7 +14,7 @@
     "@nuxt/http": "^0.6.4",
     "debug": "^4.3.3",
     "express": "^4.17.2",
-    "mongoose": "^5.13.14",
+    "mongoose": "^8.7.2",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
